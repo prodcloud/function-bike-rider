@@ -34,3 +34,15 @@ def lambda_handler(event, context):
         return "Polo"
     return "No!"
 ```
+
+### Use Boto3
+
+* install boto3 and use `ipython`
+* checkout https://github.com/noahgift/edge-computer-vision/face.py
+* 
+
+### Build a computer vision cli
+
+### Build a trigger that automatically runs a Lambda Function
+
+
