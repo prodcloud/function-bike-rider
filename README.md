@@ -10,3 +10,7 @@
 Upload pubkey to github
 
 ## Create Scaffold (with Marco Polo function)
+
+* Makefile
+* hello.py
+* requirements.txt
