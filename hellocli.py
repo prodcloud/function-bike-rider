@@ -10,4 +10,4 @@ def callmarco(name):
 
 if __name__ == '__main__':
     #pylint: disable
-
+    callmarco()
