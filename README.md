@@ -14,3 +14,5 @@ Upload pubkey to github
 * Makefile
 * hello.py
 * requirements.txt
+
+## Continuous Integration
