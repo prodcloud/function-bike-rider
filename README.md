@@ -15,4 +15,11 @@ Upload pubkey to github
 * hello.py
 * requirements.txt
 
-## Continuous Integration
+## Continuous Integration and Github Actions
+
+* test_hello.py
+* installed `pylint`, `pytest`, `black`
+
+## Bulding a command-line tool
+
+* use click to build a cli
