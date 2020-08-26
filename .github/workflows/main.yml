@@ -1,4 +1,3 @@
-ntelliJ IDEAPyCharm
 name: Python application test with Github Actions
 
 on: [push]
