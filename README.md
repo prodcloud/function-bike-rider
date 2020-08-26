@@ -23,3 +23,14 @@ Upload pubkey to github
 ## Bulding a command-line tool
 
 * use click to build a cli
+* 
+
+## Explored AWS Lambda
+
+```
+def lambda_handler(event, context):
+    print(f"This is my event {event}")
+    if event["name"] == "Marco":
+        return "Polo"
+    return "No!"
+```
